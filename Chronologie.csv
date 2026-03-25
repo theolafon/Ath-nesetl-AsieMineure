@@ -1,0 +1,80 @@
+﻿"Event - historical H-ID"	"Event - historical Record Title"	"Name of event"	Description	"Start date"	"Start date (temporal)"	"End date"	"End date (temporal)"	Duration	"Place / Location (mappable) H-ID"	"Place Record Title"	"Place / Location (mappable) Record Title"	"Place H-ID"	"Place Record Title"	"Place Record Title"	"Location (mappable)"	"Thumbnail image"	"Thumbnail image ID"	"Thumbnail image Name"	"Thumbnail image Path"
+60	"Utilisation de dariques et d'oboles attiques par les clérouques de Samos (334 BCE-328 BCE)"	"Utilisation de dariques et d'oboles attiques par les clérouques de Samos"		"334 BCE"	-000334	"328 BCE"	-000328		2	Samos	Samos								
+61	"Tissapherne rachète des prisonniers de guerre à des Grecs (411 BCE)"	"Tissapherne rachète des prisonniers de guerre à des Grecs"	"Prisonniers de guerre suite au pillage de Iasos"	"411 BCE"	-000411				5	Iasos	Iasos								
+62	"Pharnabaze donne un statère d'or à chaque exilés milésiens receuillis en Lydie (405 BCE)"	"Pharnabaze donne un statère d'or à chaque exilés milésiens receuillis en Lydie"		"405 BCE"	-000405				3	Milet	Milet								
+63	"Anabase de mercenaires grecs (401 BCE-400 BCE)"	"Anabase de mercenaires grecs"		"401 BCE"	-000401	"400 BCE"	-000400												
+64	"Spithridatès se lie à Agésilas (396 BCE)"	"Spithridatès se lie à Agésilas"	"Le satrape Spithridatès de lie à Agésilas avec 200 cavaliers dont il garde la tête"	"396 BCE"	-000396														
+65	"Destruction de Iasos (405 BCE)"	"Destruction de Iasos"	"Destruction de Iasos par les Spartiates"	"405 BCE"	-000405				5	Iasos	Iasos								
+66	"Retour des exilés de Iasos (394 BCE)"	"Retour des exilés de Iasos"	"Tissapherne prend la cité, Lysandre la prend et la détruit et les exilés reviennent"	"394 BCE"	-000394				5	Iasos	Iasos								
+67	"Siège de Samos (440 BCE)"	"Siège de Samos"	"Destruction des murs"	"440 BCE"	-000440				2	Samos	Samos								
+68	"Destruction des murs de Mytilène (427 BCE)"	"Destruction des murs de Mytilène"		"427 BCE"	-000427				12	Mytilène	Mytilène								
+69	"Siège de Samos (367 BCE-366 BCE)"	"Siège de Samos"	"Siège de Samos par les Athéniens qui dure 10 mois"	"367 BCE"	-000367	"366 BCE"	-000366		2	Samos	Samos								
+70	"Echec de Memnon devant Mytilène (333 BCE)"	"Echec de Memnon devant Mytilène"	"Memnon fut chassé d'Halicarnasse par Alexandre et échoua à prendre Mytilène"	"333 BCE"	-000333				12	Mytilène	Mytilène								
+71	"Prise d'Halicarnasse par Alexandre (334 BCE)"	"Prise d'Halicarnasse par Alexandre"		"334 BCE"	-000334				20	Halicarnasse	Halicarnasse								
+72	"Prise de Tyr par Alexandre (332 BCE)"	"Prise de Tyr par Alexandre"		"332 BCE"	-000332				21	Tyr	Tyr								
+73	"Prise de Gaza par Alexandre (332 BCE)"	"Prise de Gaza par Alexandre"		"332 BCE"	-000332				22	Gaza	Gaza								
+74	"Echec de la prise d'Ephèse par les Athéniens (410 BCE)"	"Echec de la prise d'Ephèse par les Athéniens"		"410 BCE"	-000410				17	Ephèse	Ephèse								
+75	"Construction du Teichos de Téos (412 BCE-411 BCE)"	"Construction du Teichos de Téos"	Fortifications	"412 BCE"	-000412	"411 BCE"	-000411		25	Téos	Téos								
+76	"Construction d'un diateichisma à Notion (427 BCE)"	"Construction d'un diateichisma à Notion"	"Construction d'un mur qui sépare la zone défendable de Notion de la ville"	"427 BCE"	-000427				26	Notion	Notion								
+77	"Construction d'un phourion à Milet (411 BCE)"	"Construction d'un phourion à Milet"	"Tissapherne fait construire une structure défensive à Milet"	"411 BCE"	-000411				3	Milet	Milet								
+78	"Formation des éphèbes par un katapeltaphétès (335 BCE)"	"Formation des éphèbes par un katapeltaphétès"	"Formation des éphèbes athéniens par un instructeur de catapulte"	"335 BCE"	-000335				4	Athènes	Athènes								
+80	"Destruction de la ville par Lysandre (405 BCE)"	"Destruction de la ville par Lysandre"	"Pendant la guerre du Péloponnèse, Lysandre incendie la ville et réduit sa population en esclavage. Cette cité ne frappe pas monnaie et devient rhodienne."	"405 BCE"	-000405				79	Kedreai	Kedreai								
+81	"Déplacement du trésor de la Ligue de Délos à Athènes (454 BCE)"	"Déplacement du trésor de la Ligue de Délos à Athènes"	"Moyen pour Athènes de mieux contrôler ses alliées"	"454 BCE"	-000454				4	Athènes	Athènes								
+82	"Fort redressement du tribut par Athènes (425 BCE-424 BCE)"	"Fort redressement du tribut par Athènes"	"Caisses d'Athènes dans la guerre du Péloponnèse sont durement entamées donc nécessité de faire rentrer de l'argent et de punir les cités ayant tentées de faire défection."	"425 BCE"	-000425	"424 BCE"	-000424		4	Athènes	Athènes								
+83	"Répartition du tribut de la Ligue de Délos en 5 district (443 BCE-442 BCE)"	"Répartition du tribut de la Ligue de Délos en 5 district"	"Les districts sont : Carie, Ionie, Hellespont, Thrace et Insulaires"	"443 BCE"	-000443	"442 BCE"	-000442		4	Athènes	Athènes								
+84	"Décret de Cleinias (450 BCE)"	"Décret de Cleinias"	"Décret sur la perception du tribut dans la Ligue de Délos - Démonstration d'une atmosphère hybride entre liberté et asservissement"	"450 BCE"	-000450				4	Athènes	Athènes								
+85	"Défection de Mytilène (429 BCE)"	"Défection de Mytilène"	"Défection de Mytilène en pleine guerre du Péloponnèse. Perte de son Pérée"	"429 BCE"	-000429				12	Mytilène	Mytilène								
+86	"Décret de Cléonymos (426 BCE-425 BCE)"	"Décret de Cléonymos"	"Décret sur la perception du tribut de la Ligue de Délos"	"426 BCE"	-000426	"425 BCE"	-000425		4	Athènes	Athènes								
+87	"Athènes lève l'eisphora (428 BCE)"	"Athènes lève l'eisphora"	"Athènes lève l'impôt pour la guerre afin de renflouer ses caisses dù à la guerre du Péloponnèse"	"428 BCE"	-000428				4	Athènes	Athènes								
+88	"Défection manquée de Samos (440 BCE-439 BCE)"	"Défection manquée de Samos"		"440 BCE"	-000440	"439 BCE"	-000439		4	Athènes	Athènes								
+89	"Décret de Thoudippos (425 BCE-424 BCE)"	"Décret de Thoudippos"	"Décret sur la perception du tribut de la Ligue de Délos"	"425 BCE"	-000425	"424 BCE"	-000424		2	Samos	Samos								
+90	"Expédition athénienne à Mélos (416 BCE)"	"Expédition athénienne à Mélos"	"Expédition car Mélos ne paye pas le tribut"	"416 BCE"	-000416				44	Mélos	Mélos								
+91	"Paix de Nicias (421 BCE)"	"Paix de Nicias"	"Sonne le retour au ""tribut d'Aristide"" qui est plus modéré mais plus sévère qu'en 425"	"421 BCE"	-000421				4	Athènes	Athènes								
+92	"Oligarchie à Samos (412 BCE)"	"Oligarchie à Samos"	"Athènes s'affaiblit et réduit son contrôle sur ses alliés"	"412 BCE"	-000412				2	Samos	Samos								
+93	"Révolte d'Erythrée (413 BCE)"	"Révolte d'Erythrée"		"413 BCE"	-000413				16	Erythrée	Erythrée								
+94	"Bataille d'Aigos Potamos (405 BCE)"	"Bataille d'Aigos Potamos"	"Lourde défaite athénienne qui sonne la fin de la guerre du Péloponnèse"	"405 BCE"	-000405										"POINT(26.5497992 40.2502623)"				
+95	"Paix du Roi (386 BCE)"	"Paix du Roi"		"386 BCE"	-000386														
+96	"Alliance entre Athènes et Chios (384 BCE)"	"Alliance entre Athènes et Chios"	"Alliance qui pose les bases du modèle de la Seconde Confédération athénienne"	"384 BCE"	-000384				4	Athènes	Athènes	11	Chios	Chios					
+97	"Méthymna de Lesbos rentre dans l'alliance athénienne (378 BCE)"	"Méthymna de Lesbos rentre dans l'alliance athénienne"		"378 BCE"	-000378				46	Méthymne	Méthymne								
+98	"Bataille de Leuctres (371 BCE)"	"Bataille de Leuctres"	"Btaille qui voit le début de l'hégémonie thébaine qui vainc la puissance spartiate"	"371 BCE"	-000371										"POINT(23.1666328 38.2648544)"				
+99	"Début de la ""guerre des Alliés"" (357 BCE)"	"Début de la ""guerre des Alliés"""	"Byzance, Chios et Rhodes se dressent contre Athènes"	"357 BCE"	-000357				4	Athènes	Athènes								
+100	"Défaite navale spartiate (394 BCE)"	"Défaite navale spartiate"	"Défaite spartiate au large de Cnide"	"394 BCE"	-000394				39	Cnide	Cnide								
+101	"Alliance entre Olynthe et Philippe II (356 BCE)"	"Alliance entre Olynthe et Philippe II"		"356 BCE"	-000356				49	Olynthe	Olynthe								
+102	"Olynthe se rapprochent de Athènes (352 BCE)"	"Olynthe se rapprochent de Athènes"		"352 BCE"	-000352				49	Olynthe	Olynthe								
+103	"Guerre entre Philippe et Olynthe (351 BCE)"	"Guerre entre Philippe et Olynthe"		"351 BCE"	-000351				49	Olynthe	Olynthe								
+104	"Envoie de deux flottes athéniennes à Olynthe et révolte de l'Eubée (349 BCE)"	"Envoie de deux flottes athéniennes à Olynthe et révolte de l'Eubée"		"349 BCE"	-000349				49	Olynthe	Olynthe								
+105	"Athènes renouvelle son alliance avec Mythilène (346 BCE)"	"Athènes renouvelle son alliance avec Mythilène"		"346 BCE"	-000346				12	Mytilène	Mytilène								
+106	"Pouvoir oligarchique à Mytilène (353 BCE)"	"Pouvoir oligarchique à Mytilène"		"353 BCE"	-000353				12	Mytilène	Mytilène								
+107	"Paix de Philocratès (346 BCE)"	"Paix de Philocratès"		"346 BCE"	-000346														
+108	"Athènes honore Elaious (340 BCE)"	"Athènes honore Elaious"	"Athènes honore une cité stratégique de Chersonnèse qui fut fidèle"	"340 BCE"	-000340				50	Eléonte	Eléonte								
+109	"Loi athénienne sur la circulation monétaire (375 BCE-374 BCE)"	"Loi athénienne sur la circulation monétaire"	"Période où Athènes manque de métal et doit faire rentrer du métal pour fabriquer de la monnaie"	"375 BCE"	-000375	"374 BCE"	-000374		4	Athènes	Athènes								
+110	"Bataille de Mantinée (362 BCE)"	"Bataille de Mantinée"	"Victoire thébaine contre les coalisés grecs"	"362 BCE"	-000362										"POINT(22.3997099 37.601505)"				
+111	"Expédition de Philippe II de Macédoine en Asie Mineure (337 BCE)"	"Expédition de Philippe II de Macédoine en Asie Mineure"	"Envoie de généraux, justifié par la volonté de vengeance envers Xerxès lors des guerres médiques"	"337 BCE"	-000337														
+112	"Prise de Samos par Timotheos (366 BCE)"	"Prise de Samos par Timotheos"		"366 BCE"	-000366				2	Samos	Samos								
+113	"Expédition athénienne à Mélos (426 BCE)"	"Expédition athénienne à Mélos"		"426 BCE"	-000426				44	Mélos	Mélos								
+114	"Expédition d'Athènes en Sicile (415 BCE-413 BCE)"	"Expédition d'Athènes en Sicile"		"415 BCE"	-000415	"413 BCE"	-000413												
+115	"Bataille de Salamine (480 BCE-479 BCE)"	"Bataille de Salamine"	"Victoire des grecs contre les Perses"	"480 BCE"	-000480	"479 BCE"	-000479								"POINT(23.5659149 37.9477288)"				
+116	"Bataille de Cnémos à Naupacte (429 BCE)"	"Bataille de Cnémos à Naupacte"	"Défaite Péloponnésienne face aux Athéniens"	"429 BCE"	-000429														
+117	"Colatiion de cités grecques contre Sparte (395 BCE)"	"Colatiion de cités grecques contre Sparte"	"Coalition d'Athènes, Thèbes, Corinthe et Argos cotre Sparte avec le financement du Grand Roi perse"	"395 BCE"	-000395														
+118	"Flotte péloponnésienne longe les côtes ioniennes (427 BCE)"	"Flotte péloponnésienne longe les côtes ioniennes"		"427 BCE"	-000427														
+119	"Perte d'Abydos pour Athènes (411 BCE)"	"Perte d'Abydos pour Athènes"		"411 BCE"	-000411				35	Abydos	Abydos								
+120	"Lysandre navigue de Rhodes à l'Hellespont (405 BCE)"	"Lysandre navigue de Rhodes à l'Hellespont"	"Lysandre en profite pour punir toutes les cités de la côte ionienne qui se sont révoltées"	"405 BCE"	-000405														
+121	"Reprise de Byzance (389 BCE)"	"Reprise de Byzance"	"Reprise de Byzance suite à une révolte ?"	"389 BCE"	-000389				19	Byzance	Byzance								
+122	"Renouvellement de la paix de Callias (424 BCE-423 BCE)"	"Renouvellement de la paix de Callias"		"424 BCE"	-000424	"423 BCE"	-000423												
+123	"Parion acceuille 24 trières Athéniennes (410 BCE)"	"Parion acceuille 24 trières Athéniennes"		"410 BCE"	-000410														
+126	"Création de la Seconde Confédération athénienne (377 BCE)"	"Création de la Seconde Confédération athénienne"	"Par le décret d'Aristide, qu'on appelle aussi une Symmachie"	"377 BCE"	-000377														
+127	"Promesse de paix entre Athéniens et Lacédénomiens (371 BCE)"	"Promesse de paix entre Athéniens et Lacédénomiens"		"371 BCE"	-000371														
+128	"Prise de Crithotè et Sestos (360 BCE)"	"Prise de Crithotè et Sestos"	"Cités à l'importance militaire et stratégique"	"360 BCE"	-000360				7	Sestos	Sestos								
+130	"Défaite navale devant l'île d'Amorgos et défaite sur terre à Crannon (322 BCE)"	"Défaite navale devant l'île d'Amorgos et défaite sur terre à Crannon"	"Défaite Athénienne pendant la guerre lamiaque"	"322 BCE"	-000322				131	Amorgos	Amorgos	132	Crannon	Crannon					
+134	"Alcibiade fuit Sparte et se réfugie chez Tissapherne (412 BCE)"	"Alcibiade fuit Sparte et se réfugie chez Tissapherne"		"412 BCE"	-000412														
+135	"Révolte de l'Ionie (499 BCE)"	"Révolte de l'Ionie"	"Révolte des cités grecques de Ionie"	"499 BCE"	-000499														
+136	"Prise de Sardes (498 BCE)"	"Prise de Sardes"		"498 BCE"	-000498														
+137	"Prise de Milet (494 BCE)"	"Prise de Milet"	"Flotte de Ladé détruite"	"494 BCE"	-000494														
+138	"Soumission de l'Erétrie par les Perses et victoire de Marathon (490 BCE)"	"Soumission de l'Erétrie par les Perses et victoire de Marathon"		"490 BCE"	-000490														
+139	"Xerxès sur le trône (486 BCE)"	"Xerxès sur le trône"		"486 BCE"	-000486														
+140	"Bataille des Thermopyles et du cap Artémision (480 BCE-479 BCE)"	"Bataille des Thermopyles et du cap Artémision"		"480 BCE"	-000480	"479 BCE"	-000479												
+141	"Création de la Ligue de Délos (478 BCE)"	"Création de la Ligue de Délos"		"478 BCE"	-000478														
+142	"Btaille de l'Eurydémon (469 BCE)"	"Btaille de l'Eurydémon"		"469 BCE"	-000469														
+143	"Paix de Callias (449 BCE-448 BCE)"	"Paix de Callias"		"449 BCE"	-000449	"448 BCE"	-000448												
+144	"Clérouquie à Lesbos (427 BCE)"	"Clérouquie à Lesbos"		"427 BCE"	-000427														
+145	"Décret de Cléarque (437 BCE)"	"Décret de Cléarque"	"Unification des poids, mesures et monnaie"	"437 BCE"	-000437														

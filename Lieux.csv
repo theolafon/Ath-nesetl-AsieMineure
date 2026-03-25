@@ -1,0 +1,64 @@
+﻿"Place H-ID"	"Place Record Title"	"Place name"	"Place type"	Country	"Location (mappable)"	"Locational certainty"	"Short description"	"Type of structure"	"Place role"
+2	Samos	Samos	Administrative	Turkey	"POINT(26.8339562 37.7503109)"	"1. High confidence"	"Cité importante d'Asie Mineure sur une île"	"Government / royal"	Government
+3	Milet	Milet	Administrative	Turkey	"POINT(27.2798246 37.5318313)"	"1. High confidence"	"Cité importante de Ionie"	"Government / royal"	Government
+4	Athènes	Athènes	Administrative	Greece	"POINT(23.7173567 37.9666354)"	"1. High confidence"	"Cité d'Athènes en Attique"	"Government / royal"	Government
+5	Iasos	Iasos	Administrative	Turkey	"POINT(27.5862168 37.2780973)"	"1. High confidence"	"Cité de Iasos en Carie"	"Government / royal"	Government
+6	Delphes	Delphes	Administrative	Greece	"POINT(22.5013175 38.4827325)"	"1. High confidence"	"Cité de Delphes en Phocide"	Religious	Community
+7	Sestos	Sestos	Administrative	Turkey	"POINT(26.3893184 40.2134284)"	"1. High confidence"	"Cité de Chersonèse de Thrace hautement stratégique sur le détroit de l'Hellespont"	"Government / royal"	Government
+8	"Magnésie du Méandre"	"Magnésie du Méandre"	Administrative	Turkey	"POINT(27.5225807 37.8493075)"	"1. High confidence"	"Cité de Ionie"	"Government / royal"	Government
+9	Lampsaque	Lampsaque	Administrative	Turkey	"POINT(26.6836182 40.3438841)"	"1. High confidence"	"Cité de Troade hautement stratégique pour le passage dans le Pont-Euxin"	"Government / royal"	Government
+10	Rhodes	Rhodes	Administrative	Greece	"POINT(28.0014684 36.1687877)"	"1. High confidence"	"Cité de Rhodes dans l'archipel de Dodécanèse"	"Government / royal"	Government
+11	Chios	Chios	Administrative	Greece	"POINT(26.0201394 38.4020855)"	"1. High confidence"	"Cité grecque de Sproade orientale"	"Government / royal"	Government
+12	Mytilène	Mytilène	Administrative	Greece	"POINT(26.5501689 39.0999392)"	"1. High confidence"	"Cité de l'île de Lesbos"	"Government / royal"	Government
+13	Clazomènes	Clazomènes	Administrative	Turkey	"POINT(26.7678498 38.358374)"	"1. High confidence"	"Cité grecque de Ionie"	"Government / royal"	Government
+14	Kos	Kos	Administrative	Greece	"POINT(27.2327595 36.8516342)"	"1. High confidence"	"Cité de l'archipel de Dodécanèse"	"Government / royal"	Government
+15	Cyzique	Cyzique	Administrative	Turkey	"POINT(27.8886947 40.3810735)"	"2. Probable location"	"Cité grecque en Mysie"	"Government / royal"	Government
+16	Erythrée	Erythrée	Administrative	Turkey	"POINT(26.4807497 38.3827794)"	"1. High confidence"	"Cité grecque antique de Ionie"	"Government / royal"	Government
+17	Ephèse	Ephèse	Administrative	Turkey	"POINT(27.3393194 37.9404456)"	"1. High confidence"	"Cité grecque de Ionie"	"Government / royal"	Government
+18	Chalcédoine	Chalcédoine	Administrative	Turkey	"POINT(29.0334834 40.983492)"	"1. High confidence"	"Cité grecque de Bithynie"	"Government / royal"	Government
+19	Byzance	Byzance	Administrative	Turkey	"POINT(28.9839166 41.0127152)"	"1. High confidence"	"Cité grecque de Thrace"	"Government / royal"	Government
+20	Halicarnasse	Halicarnasse	Administrative	Turkey	"POINT(27.4245005 37.0381194)"	"1. High confidence"	"Cité grecque de Carie"	"Government / royal"	Government
+21	Tyr	Tyr	Administrative		"POINT(35.2167184 33.2687922)"	"1. High confidence"	"Cité de Phénicie"	"Government / royal"	Government
+22	Gaza	Gaza	Administrative	"Palestinian Territory, Occupied"	"POINT(34.4501989 31.5167475)"	"1. High confidence"	Cité	"Government / royal"	Government
+23	Alabanda	Alabanda	Administrative	Turkey	"POINT(27.8345151 37.5927372)"	"1. High confidence"	"Cité de Carie"	"Government / royal"	Government
+24	Alinda	Alinda	Administrative	Turkey	"POINT(27.8267713 37.5592315)"	"1. High confidence"	"Cité de Carie"	"Government / royal"	Government
+25	Téos	Téos	Administrative	Turkey	"POINT(26.7848777 38.177228)"	"1. High confidence"	"Cité de Ionie"	"Government / royal"	Government
+26	Notion	Notion	Administrative	Turkey	"POINT(27.1941184 37.9915525)"	"1. High confidence"	"Cité grecque"	"Government / royal"	Government
+27	Korésia	Korésia	Administrative	Greece	"POINT(24.3070509 37.6582812)"	"1. High confidence"	"Cité grecque de l'île de Kéa"	"Government / royal"	Government
+28	Priène	Priène	Administrative	Turkey	"POINT(27.2977174 37.6598426)"	"1. High confidence"	"Cité grecque de Ionie"	"Government / royal"	Government
+29	Délos	Délos	Administrative	Greece	"POINT(25.2725083 37.3955556)"	"1. High confidence"	"Cité grecque des Cyclades"	"Government / royal"	Government
+30	"Héraclée du Pont"	"Héraclée du Pont"	Administrative	Turkey	"POINT(31.4144787 41.2847559)"	"1. High confidence"	"Cité de Bithynie"	"Government / royal"	Government
+31	Apamée	Apamée	Administrative	Syria	"POINT(36.3830791 35.4167218)"	"1. High confidence"	"Cité de Syrie"	"Government / royal"	Government
+32	Amathonte	Amathonte	Administrative		"POINT(33.1433965 34.7114364)"	"1. High confidence"		"Government / royal"	Government
+33	"Aï Khanoum"	"Aï Khanoum"	Administrative	Afghanistan	"POINT(69.4109352 37.1666578)"	"1. High confidence"	"Cité de Bactriane"	"Government / royal"	Government
+34	Théra	Théra	Administrative	Greece	"POINT(25.4781083 36.3634081)"	"1. High confidence"	"Cité grecque de l'île de Santorin"	"Government / royal"	Government
+35	Abydos	Abydos	Administrative	Turkey	"POINT(26.4071989 40.1962734)"	"1. High confidence"	"Cité de Mysie"	"Government / royal"	Government
+36	Caunos	Caunos	Administrative	Turkey	"POINT(28.6242516 36.8245236)"	"1. High confidence"	"Cité grecque de Carie"	"Government / royal"	Government
+37	Phasélis	Phasélis	Administrative	Turkey	"POINT(30.5523155 36.5238997)"	"1. High confidence"	"Cité de Lycie"	"Government / royal"	Government
+39	Cnide	Cnide	Administrative	Turkey	"POINT(27.3739492 36.686356)"	"1. High confidence"	"Cité grecque de Carie"	"Government / royal"	Government
+40	Carpathos	Carpathos	Administrative	Greece	"POINT(27.2125014 35.5074835)"	"1. High confidence"	"Cité de l'archipel de Dédocanèse"	"Government / royal"	Government
+41	Pylos	Pylos	Administrative	Greece	"POINT(21.6941044 36.9104865)"	"1. High confidence"	"Cité grecque de Messénie"	"Government / royal"	Government
+42	Corinthe	Corinthe	Administrative	Greece	"POINT(22.9322859 37.9312414)"	"1. High confidence"	"Cité grecque de Corinthie"	"Government / royal"	Government
+43	Samothrace	Samothrace	Administrative	Greece	"POINT(25.5229701 40.4733937)"	"1. High confidence"	"Cité grecque de l'île de Samothrace"	"Government / royal"	Government
+44	Mélos	Mélos	Administrative	Greece	"POINT(24.4662162 36.7161531)"	"1. High confidence"	"Cité grecque des Cyclades"	"Government / royal"	Government
+45	Sparte	Sparte	Administrative	Greece	"POINT(22.4234637 37.0825836)"	"1. High confidence"	"Cité grecque du Péloponnèse"	"Government / royal"	Government
+46	Méthymne	Méthymne	Administrative	Greece	"POINT(26.1738756 39.3679916)"	"1. High confidence"	"Cité grecque de l'île de Lesbos"	"Government / royal"	Government
+47	Sardes	Sardes	Administrative	Turkey	"POINT(28.0402733 38.4881598)"	"1. High confidence"	"Cité de Lydie, siège du satrape achéménide"	"Government / royal"	Government
+48	Myrina	Myrina	Administrative	Turkey	"POINT(25.2498969 39.9176058)"	"2. Probable location"	"Cité de l'île de Lemnos"	"Government / royal"	Government
+49	Olynthe	Olynthe	Administrative	Greece	"POINT(23.3554899 40.2964657)"	"1. High confidence"	"Cité de Chalcidique"	"Government / royal"	Government
+50	Eléonte	Eléonte	Administrative	Turkey	"POINT(26.2257498 40.0599159)"	"1. High confidence"	"Cité grecque de Chersonèse"	"Government / royal"	Government
+51	Xanthos	Xanthos	Administrative	Turkey	"POINT(29.3181348 36.3565276)"	"1. High confidence"	"Cité grecque de Lycie"	"Government / royal"	Government
+52	Ténèdos	Ténèdos	Administrative	Turkey	"POINT(26.022165 39.817407)"	"1. High confidence"	"Cité de Ténèdos en Sproades Thraces"	"Government / royal"	Government
+53	Lamia	Lamia	Administrative	Greece	"POINT(22.4332584 38.8999476)"	"1. High confidence"	"Cité de Grèce Centrale"	"Government / royal"	Government
+54	Thèbes	Thèbes	Administrative	Greece	"POINT(23.316696 38.3168116)"	"1. High confidence"	"Cité de Béotie"	"Government / royal"	Government
+55	Kimolos	Kimolos	Administrative	Greece	"POINT(24.5750946 36.7931517)"	"1. High confidence"	"Cité de l'île du même nom"	"Government / royal"	Government
+56	Argos	Argos	Administrative	Greece	"POINT(22.7165986 37.6166841)"	"1. High confidence"	"Cité d'Argolide"	"Government / royal"	Government
+57	Egine	Egine	Administrative	Greece	"POINT(23.4333782 37.7498085)"	"1. High confidence"	"Cité du golfe Saronique"	"Government / royal"	Government
+58	Olympie	Olympie	Administrative	Greece	"POINT(21.6302531 37.6379513)"	"1. High confidence"	"Cité grecque du Péloponnèse"	Religious	Community
+59	Kymè	Kymè	Administrative	Turkey	"POINT(26.9365042 38.7590929)"	"1. High confidence"	"Cité grecque d'Eolide"	"Government / royal"	Government
+79	Kedreai	Kedreai	Administrative	Turkey	"POINT(28.2057845 36.8417456)"	"1. High confidence"	"Cité de Carie"	"Government / royal"	Government
+124	Parion	Parion	Administrative	Turkey	"POINT(27.0701324 40.4158363)"	"1. High confidence"	"Cité de Mysie"	"Government / royal"	Government
+131	Amorgos	Amorgos	Administrative	Greece	"POINT(25.887603 36.8408674)"	"1. High confidence"		"Government / royal"	Government
+132	Crannon	Crannon	Administrative	Greece	"POINT(22.3491735 39.5200993)"	"1. High confidence"		"Government / royal"	Government
+146	Andros	Andros	Administrative	Greece	"POINT(24.9332691 37.8337094)"	"1. High confidence"	"Île des Cyclades"	"Government / royal"	Government
+147	Naxos	Naxos	Geometric	Greece	"POINT(25.3767885 37.1045788)"	"1. High confidence"	"Cité de l'Egée-méridionale"	"Government / royal"	Government
