@@ -1,0 +1,64 @@
+﻿"Place H-ID"	"Place Record Title"	"Place name"	"Location (mappable)"	"Short description"
+2	Samos	Samos	"POINT(26.8339562 37.7503109)"	Insulaires
+3	Milet	Milet	"POINT(27.2798246 37.5318313)"	Insulaires
+4	Athènes	Athènes	"POINT(23.7173567 37.9666354)"	"Cités de Grèce continentale"
+5	Iasos	Iasos	"POINT(27.5862168 37.2780973)"	"Cités grecques d'Asie Mineure"
+6	Delphes	Delphes	"POINT(22.5013175 38.4827325)"	"Cités de Grèce continentale"
+7	Sestos	Sestos	"POINT(26.3893184 40.2134284)"	"Cités stratégiques autres"
+8	"Magnésie du Méandre"	"Magnésie du Méandre"	"POINT(27.5225807 37.8493075)"	"Cités grecques d'Asie Mineure"
+9	Lampsaque	Lampsaque	"POINT(26.6836182 40.3438841)"	"Cités grecques d'Asie Mineure"
+10	Rhodes	Rhodes	"POINT(28.0014684 36.1687877)"	Insulaires
+11	Chios	Chios	"POINT(26.0201394 38.4020855)"	Insulaires
+12	Mytilène	Mytilène	"POINT(26.5501689 39.0999392)"	Insulaires
+13	Clazomènes	Clazomènes	"POINT(26.7678498 38.358374)"	"Cités grecques d'Asie Mineure"
+14	Kos	Kos	"POINT(27.2327595 36.8516342)"	Insulaires
+15	Cyzique	Cyzique	"POINT(27.8886947 40.3810735)"	"Cités grecques d'Asie Mineure"
+16	Erythrée	Erythrée	"POINT(26.4807497 38.3827794)"	"Cités grecques d'Asie Mineure"
+17	Ephèse	Ephèse	"POINT(27.3393194 37.9404456)"	"Cités grecques d'Asie Mineure"
+18	Chalcédoine	Chalcédoine	"POINT(29.0334834 40.983492)"	"Cités grecques d'Asie Mineure"
+19	Byzance	Byzance	"POINT(28.9839166 41.0127152)"	"Cités stratégiques autres"
+20	Halicarnasse	Halicarnasse	"POINT(27.4245005 37.0381194)"	"Cités grecques d'Asie Mineure"
+21	Tyr	Tyr	"POINT(35.2167184 33.2687922)"	"Cités périphériques"
+22	Gaza	Gaza	"POINT(34.4501989 31.5167475)"	"Cités périphériques"
+23	Alabanda	Alabanda	"POINT(27.8345151 37.5927372)"	"Cités grecques d'Asie Mineure"
+24	Alinda	Alinda	"POINT(27.8267713 37.5592315)"	"Cités grecques d'Asie Mineure"
+25	Téos	Téos	"POINT(26.7848777 38.177228)"	"Cités grecques d'Asie Mineure"
+26	Notion	Notion	"POINT(27.1941184 37.9915525)"	"Cités grecques d'Asie Mineure"
+27	Korésia	Korésia	"POINT(24.3070509 37.6582812)"	Insulaires
+28	Priène	Priène	"POINT(27.2977174 37.6598426)"	"Cités grecques d'Asie Mineure"
+29	Délos	Délos	"POINT(25.2725083 37.3955556)"	Insulaires
+30	"Héraclée du Pont"	"Héraclée du Pont"	"POINT(31.4144787 41.2847559)"	"Cités grecques d'Asie Mineure"
+31	Apamée	Apamée	"POINT(36.3830791 35.4167218)"	"Cités périphériques"
+32	Amathonte	Amathonte	"POINT(33.1433965 34.7114364)"	Insulaires
+33	"Aï Khanoum"	"Aï Khanoum"	"POINT(69.4109352 37.1666578)"	"Cités périphériques"
+34	Théra	Théra	"POINT(25.4781083 36.3634081)"	Insulaires
+35	Abydos	Abydos	"POINT(26.4071989 40.1962734)"	"Cités grecques d'Asie Mineure"
+36	Caunos	Caunos	"POINT(28.6242516 36.8245236)"	"Cités grecques d'Asie Mineure"
+37	Phasélis	Phasélis	"POINT(30.5523155 36.5238997)"	"Cités grecques d'Asie Mineure"
+39	Cnide	Cnide	"POINT(27.3739492 36.686356)"	"Cités grecques d'Asie Mineure"
+40	Carpathos	Carpathos	"POINT(27.2125014 35.5074835)"	"Cités grecques d'Asie Mineure"
+41	Pylos	Pylos	"POINT(21.6941044 36.9104865)"	"Cités de Grèce continentale"
+42	Corinthe	Corinthe	"POINT(22.9322859 37.9312414)"	"Cités de Grèce continentale"
+43	Samothrace	Samothrace	"POINT(25.5229701 40.4733937)"	Insulaires
+44	Mélos	Mélos	"POINT(24.4662162 36.7161531)"	Insulaires
+45	Sparte	Sparte	"POINT(22.4234637 37.0825836)"	"Cités de Grèce continentale"
+46	Méthymne	Méthymne	"POINT(26.1738756 39.3679916)"	Insulaires
+47	Sardes	Sardes	"POINT(28.0402733 38.4881598)"	"Cités grecques d'Asie Mineure"
+48	Myrina	Myrina	"POINT(25.2498969 39.9176058)"	Insulaires
+49	Olynthe	Olynthe	"POINT(23.3554899 40.2964657)"	"Cités de Grèce continentale"
+50	Eléonte	Eléonte	"POINT(26.2257498 40.0599159)"	"Cités stratégiques autres"
+51	Xanthos	Xanthos	"POINT(29.3181348 36.3565276)"	"Cités grecques d'Asie Mineure"
+52	Ténèdos	Ténèdos	"POINT(26.022165 39.817407)"	"Cités grecques d'Asie Mineure"
+53	Lamia	Lamia	"POINT(22.4332584 38.8999476)"	"Cités de Grèce continentale"
+54	Thèbes	Thèbes	"POINT(23.316696 38.3168116)"	"Cités de Grèce continentale"
+55	Kimolos	Kimolos	"POINT(24.5750946 36.7931517)"	Insulaires
+56	Argos	Argos	"POINT(22.7165986 37.6166841)"	"Cités de Grèce continentale"
+57	Egine	Egine	"POINT(23.4333782 37.7498085)"	"Cités grecques d'Asie Mineure"
+58	Olympie	Olympie	"POINT(21.6302531 37.6379513)"	"Cités de Grèce continentale"
+59	Kymè	Kymè	"POINT(26.9365042 38.7590929)"	"Cités grecques d'Asie Mineure"
+79	Kedreai	Kedreai	"POINT(28.2057845 36.8417456)"	"Cités grecques d'Asie Mineure"
+124	Parion	Parion	"POINT(27.0701324 40.4158363)"	"Cités grecques d'Asie Mineure"
+131	Amorgos	Amorgos	"POINT(25.887603 36.8408674)"	Insulaires
+132	Crannon	Crannon	"POINT(22.3491735 39.5200993)"	"Cités de Grèce continentale"
+146	Andros	Andros	"POINT(24.9332691 37.8337094)"	Insulaires
+147	Naxos	Naxos	"POINT(25.3767885 37.1045788)"	Insulaires
